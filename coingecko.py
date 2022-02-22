@@ -39,7 +39,7 @@ def list_currencies():
 # edit as needed to print whatever you need
 
 def main():
-    options = ["Enter 1 to exit", "Price", "Exchanges", "Trending", "Currencies"]
+    options = ["Enter 0 to exit", "Price", "Exchanges", "Trending", "Currencies"]
 
     loop = True
     while loop:

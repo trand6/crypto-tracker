@@ -1,3 +1,4 @@
+# testing snippets of code
 import pandas as pd
 from pycoingecko import CoinGeckoAPI
 
@@ -13,4 +14,3 @@ print(ranking )
 
 
 
-#while(tru)
